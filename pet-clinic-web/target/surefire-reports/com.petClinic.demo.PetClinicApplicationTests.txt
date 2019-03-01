@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.petClinic.demo.PetClinicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.815 s - in com.petClinic.demo.PetClinicApplicationTests

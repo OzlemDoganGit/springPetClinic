@@ -1,0 +1,9 @@
+package com.petClinic.demo.repositories;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.petClinic.demo.model.PetType;
+
+public interface PetTypeRepository extends CrudRepository<PetType, Long> {
+
+}
