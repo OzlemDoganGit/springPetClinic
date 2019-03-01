@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/ozlem/eclipse-workspace/petClinicWs"/>
+			<item value="/home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data"/>
 			<item value="/home/ozlem/eclipse-workspace/petClinic/petClinic"/>
 		</list>
 		<list key="projectNameTemplate">

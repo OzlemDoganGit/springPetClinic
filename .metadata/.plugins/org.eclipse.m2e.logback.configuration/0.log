@@ -2,3 +2,133 @@
 2019-01-17 14:57:59,384 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
 2019-02-03 14:03:53,644 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2019-02-25 15:32:22,131 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-01 14:22:47,711 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-01 14:24:20,981 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.petclinic:pet-clinic-web:0.0.4-SNAPSHOT @ /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/pom.xml.
+2019-03-01 14:24:21,085 [Worker-10: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.petclinic:pet-clinic-data:jar:0.0.4-SNAPSHOT is missing, no dependency information available
+2019-03-01 14:24:28,907 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT @ /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/pom.xml.
+2019-03-01 14:24:31,231 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.petclinic:pet-clinic-web:0.0.4-SNAPSHOT @ /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/pom.xml.
+2019-03-01 14:24:31,685 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2019-03-01 14:24:33,535 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:24:33,546 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/main/resources
+2019-03-01 14:24:33,547 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/main/resources
+2019-03-01 14:24:33,553 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:24:33,553 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/test/resources
+2019-03-01 14:24:40,935 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:24:40,936 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/main/resources
+2019-03-01 14:24:40,936 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/main/resources
+2019-03-01 14:24:40,940 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:24:40,940 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/test/resources
+2019-03-01 14:24:45,351 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2019-03-01 14:24:46,840 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2019-03-01 14:24:46,858 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/main/less
+2019-03-01 14:24:46,859 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing the mojo: 
+2019-03-01 14:24:46,862 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Wro4j Model path: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/main/wro/wro.xml
+2019-03-01 14:24:46,863 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - targetGroups: null
+2019-03-01 14:24:46,864 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - minimize: true
+2019-03-01 14:24:46,864 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreMissingResources: null
+2019-03-01 14:24:46,864 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - parallelProcessing: false
+2019-03-01 14:24:46,864 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - buildDirectory: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target
+2019-03-01 14:24:46,884 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - destinationFolder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target
+2019-03-01 14:24:46,884 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - cssDestinationFolder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target/classes/static/resources/css
+2019-03-01 14:24:48,186 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The following groups will be processed: [petclinic]
+2019-03-01 14:24:48,186 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target/classes/static/resources/css
+2019-03-01 14:24:48,188 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.css
+2019-03-01 14:24:56,004 [Worker-11: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - Less warnings are:
+2019-03-01 14:24:56,013 [Worker-11: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - 10:1 Cannot link source map. Css result location is not know and could not be deduced from input less source..
+2019-03-01 14:24:56,038 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - file size: petclinic.css -> 152399 bytes
+2019-03-01 14:24:56,040 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target/classes/static/resources/css/petclinic.css (152399 bytes)
+2019-03-01 14:24:56,045 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target
+2019-03-01 14:24:56,045 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.js
+2019-03-01 14:24:56,066 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:24:56,099 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-01 14:24:56,153 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2019-03-01 14:24:56,242 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:24:56,244 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/test/resources
+2019-03-01 14:25:30,353 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.petclinic:pet-clinic-web:0.0.4-SNAPSHOT @ /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/pom.xml.
+2019-03-01 14:25:30,375 [Worker-10: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.petclinic:pet-clinic-data:jar:0.0.4-SNAPSHOT is missing, no dependency information available
+2019-03-01 14:25:33,741 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.petclinic:pet-clinic-data:jar:0.0.4-SNAPSHOT is missing, no dependency information available
+2019-03-01 14:25:33,925 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:25:33,934 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-01 14:25:33,941 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2019-03-01 14:25:33,944 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:25:33,944 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/test/resources
+2019-03-01 14:26:05,453 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.petclinic:pet-clinic-web:0.0.4-SNAPSHOT @ /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/pom.xml.
+2019-03-01 14:26:06,165 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2019-03-01 14:26:06,686 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT @ /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/pom.xml.
+2019-03-01 14:26:07,333 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pet-clinic-data/src/main/java
+2019-03-01 14:26:07,342 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pet-clinic-data/src/test/java
+2019-03-01 14:26:09,452 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pet-clinic-web/src/main/java
+2019-03-01 14:26:09,452 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pet-clinic-web/src/main/resources
+2019-03-01 14:26:09,453 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pet-clinic-web/src/main/resources
+2019-03-01 14:26:09,455 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pet-clinic-web/src/test/java
+2019-03-01 14:26:09,757 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 5 sec
+2019-03-01 14:26:14,978 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:26:14,978 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/main/resources
+2019-03-01 14:26:14,978 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/main/resources
+2019-03-01 14:26:14,996 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:26:14,997 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-data/src/test/resources
+2019-03-01 14:26:18,153 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/pet-clinic-data: com.petclinic:pet-clinic-data:0.0.4-SNAPSHOT with classifier  to /pet-clinic-data/target/classes
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/main/less
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing the mojo: 
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Wro4j Model path: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/main/wro/wro.xml
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - targetGroups: null
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - minimize: true
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - ignoreMissingResources: null
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - parallelProcessing: false
+2019-03-01 14:26:18,188 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - buildDirectory: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target
+2019-03-01 14:26:18,197 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - destinationFolder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target
+2019-03-01 14:26:18,197 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - cssDestinationFolder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target/classes/static/resources/css
+2019-03-01 14:26:19,787 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - The following groups will be processed: [petclinic]
+2019-03-01 14:26:19,787 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target/classes/static/resources/css
+2019-03-01 14:26:19,787 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.css
+2019-03-01 14:26:27,674 [Worker-12: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - Less warnings are:
+2019-03-01 14:26:27,677 [Worker-12: Building workspace] WARN  r.i.w.e.p.css.Less4jProcessor - 10:1 Cannot link source map. Css result location is not know and could not be deduced from input less source..
+2019-03-01 14:26:27,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - file size: petclinic.css -> 152399 bytes
+2019-03-01 14:26:27,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target/classes/static/resources/css/petclinic.css (152399 bytes)
+2019-03-01 14:26:27,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - folder: /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/target
+2019-03-01 14:26:27,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - processing group: petclinic.js
+2019-03-01 14:26:27,758 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:26:27,759 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-01 14:26:27,786 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2019-03-01 14:26:27,805 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-01 14:26:27,805 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/pet-clinic-web/src/test/resources
+2019-03-01 14:27:55,160 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.jar
+2019-03-01 14:27:55,361 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.jar
+2019-03-01 14:27:56,089 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-initial/pom.xml.
+2019-03-01 14:27:56,444 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.pom
+2019-03-01 14:27:56,514 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.pom
+2019-03-01 14:27:57,141 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/main/java
+2019-03-01 14:27:57,145 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/test/java
+2019-03-01 14:27:57,300 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2019-03-01 14:27:57,309 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-01 14:27:57,647 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-initial/pom.xml.
+2019-03-01 14:27:57,879 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/main/java
+2019-03-01 14:27:57,880 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-initial/src/test/java
+2019-03-01 14:27:57,930 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-01 14:27:58,067 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-complete/pom.xml.
+2019-03-01 14:27:58,426 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2.pom
+2019-03-01 14:27:58,540 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2.pom
+2019-03-01 14:27:58,626 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar
+2019-03-01 14:27:58,926 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar
+2019-03-01 14:27:59,469 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/main/java
+2019-03-01 14:27:59,483 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/test/java
+2019-03-01 14:27:59,655 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-03-01 14:27:59,657 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-01 14:27:59,743 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-complete/pom.xml.
+2019-03-01 14:28:00,028 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/main/java
+2019-03-01 14:28:00,048 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven-complete/src/test/java
+2019-03-01 14:28:00,105 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-01 14:28:00,830 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2-sources.jar
+2019-03-01 14:28:01,209 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2-sources.jar
+2019-03-01 14:28:01,253 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.9.2
+2019-03-01 14:28:01,254 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.9.2
+2019-03-01 14:28:01,260 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.9.2
+2019-03-01 14:28:01,262 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.9.2
+2019-03-01 14:28:04,300 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-01 14:28:04,301 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-complete/src/main/resources
+2019-03-01 14:28:04,303 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-01 14:28:04,309 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-complete/src/test/resources
+2019-03-01 14:28:04,991 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-01 14:28:04,997 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-initial/src/main/resources
+2019-03-01 14:28:04,998 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-01 14:28:04,999 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ozlem/eclipse-workspace/petClinicWs/gs-maven-initial/src/test/resources
